@@ -72,6 +72,7 @@ From the repository root:
 ```powershell
 streamlit run blog/blog_streamlit.py
 ```
+Deployed URL: https://calebmcneillmodule1projectf1speedanalysis-ecwqcyixcgfcheuvr6nn.streamlit.app/
 
 ### Run the experimental distance analysis
 
